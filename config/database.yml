@@ -1,0 +1,5 @@
+development:
+  adapter: oracle
+  database: 127.0.0.1/ORCL
+  username: millora
+  password: oracle
